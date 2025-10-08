@@ -142,5 +142,131 @@
       { "name": "4 star", "count": 160000 },
       { "name": "5 star", "count": 408000 }
     ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Maps_icon_%282020%29.svg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Navigate and explore the world around you with live maps.",
+    "size": 85,
+    "reviews": 850000,
+    "ratingAvg": 4.6,
+    "downloads": 180000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 16000 },
+      { "name": "3 star", "count": 44000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 520000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Discord_Logo.svg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 10,
+    "description": "Chat, voice, and video communication for communities.",
+    "size": 90,
+    "reviews": 730000,
+    "ratingAvg": 4.7,
+    "downloads": 76000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 32000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 11,
+    "description": "Create and discover short videos with trending music.",
+    "size": 75,
+    "reviews": 1980000,
+    "ratingAvg": 4.3,
+    "downloads": 220000000,
+    "ratings": [
+      { "name": "1 star", "count": 56000 },
+      { "name": "2 star", "count": 38000 },
+      { "name": "3 star", "count": 88000 },
+      { "name": "4 star", "count": 440000 },
+      { "name": "5 star", "count": 1380000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Reddit_logo_orange.svg",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 12,
+    "description": "Dive into communities and discussions that matter to you.",
+    "size": 88,
+    "reviews": 340000,
+    "ratingAvg": 4.5,
+    "downloads": 48000000,
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 202000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Google_Photos_icon.svg",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 13,
+    "description": "Backup, organize, and share your photos securely.",
+    "size": 92,
+    "reviews": 560000,
+    "ratingAvg": 4.6,
+    "downloads": 89000000,
+    "ratings": [
+      { "name": "1 star", "count": 13000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 29000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 350000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Zoom_Communications_Logo.svg",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 14,
+    "description": "Video conferencing and meetings made simple.",
+    "size": 78,
+    "reviews": 460000,
+    "ratingAvg": 4.4,
+    "downloads": 76000000,
+    "ratings": [
+      { "name": "1 star", "count": 14000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 28000 },
+      { "name": "4 star", "count": 130000 },
+      { "name": "5 star", "count": 280000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pinterest_Logo.svg",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 15,
+    "description": "Discover inspiration for projects, fashion, and more.",
+    "size": 84,
+    "reviews": 410000,
+    "ratingAvg": 4.5,
+    "downloads": 64000000,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 246000 }
+    ]
   }
 ]

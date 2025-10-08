@@ -1,12 +1,13 @@
 import React from 'react';
 import HeroImg from '../../assets/logo.png';
+import { NavLink } from 'react-router';
 
 const Navbar = () => {
     
     const items =<> <ul className="menu menu-horizontal px-1">
-                    <li className='text-black'><a>Home</a></li>
-                    <li className='text-black'><a>Apps</a></li>
-                    <li className='text-black'><a>Installation</a></li>
+                    <NavLink to='/'><li className='text-black'><a>Home</a></li></NavLink>
+                    <NavLink to='/Apps'><li className='text-black'><a>Apps</a></li></NavLink>
+                    <NavLink to='/Installation'><li className='text-black'><a>Installation</a></li></NavLink>
                  </ul>
                  </>
 

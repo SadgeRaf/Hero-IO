@@ -2,5 +2,11 @@
 @plugin "daisyui";
 
 html, body{
-    background-color: #D2D2D2;
+    background-color: rgb(235, 232, 232);
+}
+
+.active {
+  color: #6b21a8; /* purple-800 */
+  font-weight: 600;
+  border-bottom: 2px solid #6b21a8;
 }
