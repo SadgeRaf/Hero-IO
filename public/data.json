@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://example.com/images/notion.png",
+    "title": "Notion",
+    "companyName": "Notion Labs",
+    "id": 1,
+    "description": "All-in-one workspace for notes, tasks, wikis, and databases.",
+    "size": 86,
+    "reviews": 12034,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 8034 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 2,
+    "description": "Stream millions of songs and podcasts for free or with Premium.",
+    "size": 140,
+    "reviews": 250000,
+    "ratingAvg": 4.6,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 155000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/telegram.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 3,
+    "description": "Fast and secure messaging with unlimited cloud storage.",
+    "size": 120,
+    "reviews": 175000,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 111000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/canva.png",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 4,
+    "description": "Design stunning graphics, videos, and documents with ease.",
+    "size": 95,
+    "reviews": 89000,
+    "ratingAvg": 4.5,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 3500 },
+      { "name": "2 star", "count": 4200 },
+      { "name": "3 star", "count": 8800 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 48500 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/vscode.png",
+    "title": "VS Code",
+    "companyName": "Microsoft",
+    "id": 5,
+    "description": "Lightweight yet powerful source code editor for developers.",
+    "size": 210,
+    "reviews": 55000,
+    "ratingAvg": 4.9,
+    "downloads": 30000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 41400 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/tiktok.png",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 6,
+    "description": "Create and discover short videos with trending music and filters.",
+    "size": 180,
+    "reviews": 340000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 23000 },
+      { "name": "3 star", "count": 48000 },
+      { "name": "4 star", "count": 97000 },
+      { "name": "5 star", "count": 152000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/google-maps.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Navigate and explore the world with detailed maps and directions.",
+    "size": 150,
+    "reviews": 1200000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 835000 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/snapseed.png",
+    "title": "Snapseed",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Professional photo editing tools right in your pocket.",
+    "size": 60,
+    "reviews": 70000,
+    "ratingAvg": 4.6,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 38500 }
+    ]
+  }
+]
