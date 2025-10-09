@@ -1,6 +1,8 @@
 import React from 'react';
 
 import BannerImage from '../../assets/hero.png'
+import { IoLogoGooglePlaystore } from "react-icons/io5";
+import { SiAppstore } from "react-icons/si";
 
 const Banner = () => {
     return (
@@ -12,8 +14,16 @@ const Banner = () => {
                 <p className='text-center mt-5 text-gray-500'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.
                     <br />Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 <div className='flex gap-4 mt-4'>
-                    <button className='px-4 py-2 border-1 border-gray-500'><img src=''></img>Google Play</button>
-                    <button className='px-4 py-2 border-1 border-gray-500'><img src=''></img>App Store</button>
+                    <a href="https://play.google.com/store" target="_blank"
+                        className="px-4 py-2 border border-gray-500 flex items-center gap-2 text-black rounded-md hover:bg-gray-100 transition">
+                        <IoLogoGooglePlaystore />
+                        Google Play
+                    </a>
+                    <a href="https://www.apple.com/app-store/" target="_blank"
+                        className="px-4 py-2 border border-gray-500 flex items-center gap-2 text-black rounded-md hover:bg-gray-100 transition">
+                        <SiAppstore />
+                        App Store
+                    </a>
                 </div>
                 <img className='mt-10' src={BannerImage}></img>
             </div> 

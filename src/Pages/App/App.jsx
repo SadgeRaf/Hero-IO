@@ -1,13 +1,15 @@
 import React from 'react';
 import { IoMdStarHalf } from "react-icons/io";
 import { PiDownloadSimple } from "react-icons/pi";
+import { Link } from 'react-router';
 
 const App = ({d}) => {
-    console.log(d);
-    const { image, title, ratingAvg, downloads } = d;
+    
+    const { image, title, id, ratingAvg, downloads } = d;
     
     return (
-        <div className="card bg-white w-full max-w-[22rem] md:w-96 shadow-sm p-4">
+        <Link to={`/Apps/${id}`}>
+         <div className="card bg-white w-full max-w-[22rem] md:w-96 shadow-sm p-4">
             <figure className='bg-[#D9D9D9] p-4 w-3/4 mx-auto'>
                 <img className='w-[200px] h-[200px]'
                     src={image}/>
@@ -21,7 +23,8 @@ const App = ({d}) => {
                     <div className="badge badge-outline bg-green-200 text-green-600"><PiDownloadSimple />{downloads}</div>
                 </div>
             </div>
-        </div>
+         </div>
+        </Link>
     );
 };
 

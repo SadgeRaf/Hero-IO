@@ -2,6 +2,7 @@ import React, { Suspense, useState } from 'react';
 import { useLoaderData } from 'react-router';
 import { CiSearch } from "react-icons/ci";
 import App from '../App/App';
+import AnimLoading from '../../Components/Loading/Loading';
 
 const AllApps = () => {
   const data = useLoaderData();
@@ -40,7 +41,7 @@ const AllApps = () => {
 
       
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 place-items-center gap-8'>
-        <Suspense fallback={<span>Loading...</span>}>
+        <Suspense fallback={<AnimLoading></AnimLoading>}>
           {filtered.map((d) => (
             <App key={d.id} d={d} />
           ))}

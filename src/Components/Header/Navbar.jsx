@@ -1,6 +1,7 @@
 import React from 'react';
 import HeroImg from '../../assets/logo.png';
 import { NavLink } from 'react-router';
+import { FaGithub } from "react-icons/fa";
 
 const Navbar = () => {
     
@@ -36,8 +37,9 @@ const Navbar = () => {
                 }
             </div>
             <div className="navbar-end">
-                <a className="btn bg-gradient-to-r from-purple-900 to-purple-500">
-                    <img className='w-6 h-6' src={HeroImg}></img>
+                <a href="https://github.com/SadgeRaf" target="_blank"
+                  className="btn bg-gradient-to-r from-purple-900 to-purple-500">
+                    <FaGithub />
                     Contribute</a>
             </div>
         </div>
