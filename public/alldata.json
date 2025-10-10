@@ -1,272 +1,509 @@
 [
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
-    "title": "Netflix",
-    "companyName": "Netflix, Inc.",
     "id": 1,
-    "description": "Stream movies, TV shows, and originals from anywhere.",
-    "size": 120,
-    "reviews": 1200000,
-    "ratingAvg": 4.6,
-    "downloads": 50000000,
-    "ratings": [
-      { "name": "1 star", "count": 34000 },
-      { "name": "2 star", "count": 22000 },
-      { "name": "3 star", "count": 68000 },
-      { "name": "4 star", "count": 210000 },
-      { "name": "5 star", "count": 800000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png",
-    "title": "Facebook",
-    "companyName": "Meta Platforms",
-    "id": 2,
-    "description": "Connect with friends and share your moments instantly.",
-    "size": 85,
-    "reviews": 2000000,
-    "ratingAvg": 4.3,
-    "downloads": 100000000,
-    "ratings": [
-      { "name": "1 star", "count": 56000 },
-      { "name": "2 star", "count": 34000 },
-      { "name": "3 star", "count": 98000 },
-      { "name": "4 star", "count": 410000 },
-      { "name": "5 star", "count": 1430000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Instagram_logo_2016.svg",
-    "title": "Instagram",
-    "companyName": "Meta Platforms",
-    "id": 3,
-    "description": "Share photos, reels, and stories with your friends.",
-    "size": 72,
-    "reviews": 1750000,
-    "ratingAvg": 4.4,
-    "downloads": 95000000,
-    "ratings": [
-      { "name": "1 star", "count": 40000 },
-      { "name": "2 star", "count": 26000 },
-      { "name": "3 star", "count": 80000 },
-      { "name": "4 star", "count": 380000 },
-      { "name": "5 star", "count": 1300000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/YouTube_logo_2017.svg",
-    "title": "YouTube",
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968534.png",
+    "title": "Gmail",
     "companyName": "Google LLC",
+    "description": "Fast, organized email app that helps you stay connected and productive with built-in Google Meet integration.",
+    "size": 52,
+    "reviews": 12400000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 7000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "description": "Free messaging and calling app that lets you chat, share media, and make secure voice/video calls worldwide.",
+    "size": 38,
+    "reviews": 173000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "description": "Share your photos, stories, and videos with friends and explore what’s trending around the world.",
+    "size": 64,
+    "reviews": 150000000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2100000 },
+      { "name": "2 star", "count": 1300000 },
+      { "name": "3 star", "count": 2900000 },
+      { "name": "4 star", "count": 6400000 },
+      { "name": "5 star", "count": 14000000 }
+    ]
+  },
+  {
     "id": 4,
-    "description": "Watch and share videos from creators worldwide.",
-    "size": 105,
-    "reviews": 2500000,
-    "ratingAvg": 4.8,
-    "downloads": 150000000,
-    "ratings": [
-      { "name": "1 star", "count": 42000 },
-      { "name": "2 star", "count": 26000 },
-      { "name": "3 star", "count": 98000 },
-      { "name": "4 star", "count": 440000 },
-      { "name": "5 star", "count": 1980000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Twitter_bird_logo_2012.svg",
-    "title": "X (Twitter)",
-    "companyName": "X Corp.",
-    "id": 5,
-    "description": "Join the conversation — stay updated with global trends.",
-    "size": 68,
-    "reviews": 890000,
-    "ratingAvg": 4.1,
-    "downloads": 87000000,
-    "ratings": [
-      { "name": "1 star", "count": 24000 },
-      { "name": "2 star", "count": 16000 },
-      { "name": "3 star", "count": 64000 },
-      { "name": "4 star", "count": 210000 },
-      { "name": "5 star", "count": 560000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Spotify_logo_with_text.svg",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
     "title": "Spotify",
     "companyName": "Spotify AB",
-    "id": 6,
-    "description": "Stream and discover music, podcasts, and playlists.",
-    "size": 95,
-    "reviews": 1450000,
-    "ratingAvg": 4.7,
-    "downloads": 120000000,
+    "description": "Listen to millions of songs, podcasts, and playlists for free, or go premium for an ad-free experience.",
+    "size": 80,
+    "reviews": 124000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 22000 },
-      { "name": "2 star", "count": 12000 },
-      { "name": "3 star", "count": 36000 },
-      { "name": "4 star", "count": 260000 },
-      { "name": "5 star", "count": 1130000 }
+      { "name": "1 star", "count": 1100000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 5800000 },
+      { "name": "5 star", "count": 12000000 }
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Chrome_icon_%282011%29.png",
-    "title": "Google Chrome",
+    "id": 5,
+    "image": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "title": "YouTube",
     "companyName": "Google LLC",
-    "id": 7,
-    "description": "Fast, secure, and easy-to-use web browser.",
-    "size": 130,
-    "reviews": 980000,
-    "ratingAvg": 4.8,
-    "downloads": 200000000,
-    "ratings": [
-      { "name": "1 star", "count": 18000 },
-      { "name": "2 star", "count": 12000 },
-      { "name": "3 star", "count": 32000 },
-      { "name": "4 star", "count": 190000 },
-      { "name": "5 star", "count": 728000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png",
-    "title": "Apple Music",
-    "companyName": "Apple Inc.",
-    "id": 8,
-    "description": "Stream over 100 million songs ad-free.",
-    "size": 110,
-    "reviews": 620000,
+    "description": "Watch, upload, and share videos. Subscribe to your favorite channels and discover trending content daily.",
+    "size": 125,
+    "reviews": 200000000,
     "ratingAvg": 4.5,
-    "downloads": 54000000,
+    "downloads": 10000000000,
     "ratings": [
-      { "name": "1 star", "count": 14000 },
-      { "name": "2 star", "count": 10000 },
-      { "name": "3 star", "count": 28000 },
-      { "name": "4 star", "count": 160000 },
-      { "name": "5 star", "count": 408000 }
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 3200000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 16000000 }
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Maps_icon_%282020%29.svg",
-    "title": "Google Maps",
-    "companyName": "Google LLC",
-    "id": 9,
-    "description": "Navigate and explore the world around you with live maps.",
-    "size": 85,
-    "reviews": 850000,
-    "ratingAvg": 4.6,
-    "downloads": 180000000,
-    "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 16000 },
-      { "name": "3 star", "count": 44000 },
-      { "name": "4 star", "count": 250000 },
-      { "name": "5 star", "count": 520000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Discord_Logo.svg",
-    "title": "Discord",
-    "companyName": "Discord Inc.",
-    "id": 10,
-    "description": "Chat, voice, and video communication for communities.",
+    "id": 6,
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968764.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Connect with friends, share photos and videos, and stay updated on what’s happening around you.",
     "size": 90,
-    "reviews": 730000,
-    "ratingAvg": 4.7,
-    "downloads": 76000000,
+    "reviews": 180000000,
+    "ratingAvg": 4.1,
+    "downloads": 10000000000,
     "ratings": [
-      { "name": "1 star", "count": 15000 },
-      { "name": "2 star", "count": 9000 },
-      { "name": "3 star", "count": 32000 },
-      { "name": "4 star", "count": 180000 },
-      { "name": "5 star", "count": 500000 }
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 1300000 },
+      { "name": "3 star", "count": 3600000 },
+      { "name": "4 star", "count": 7200000 },
+      { "name": "5 star", "count": 14500000 }
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TikTok_logo.svg",
+    "id": 7,
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733579.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "description": "Join the conversation. Share updates, follow trending topics, and connect with people around the world.",
+    "size": 55,
+    "reviews": 120000000,
+    "ratingAvg": 3.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3100000 },
+      { "name": "2 star", "count": 2100000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 5100000 },
+      { "name": "5 star", "count": 9500000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://cdn-icons-png.flaticon.com/512/3046/3046127.png",
     "title": "TikTok",
     "companyName": "ByteDance Ltd.",
-    "id": 11,
-    "description": "Create and discover short videos with trending music.",
-    "size": 75,
-    "reviews": 1980000,
-    "ratingAvg": 4.3,
-    "downloads": 220000000,
-    "ratings": [
-      { "name": "1 star", "count": 56000 },
-      { "name": "2 star", "count": 38000 },
-      { "name": "3 star", "count": 88000 },
-      { "name": "4 star", "count": 440000 },
-      { "name": "5 star", "count": 1380000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Reddit_logo_orange.svg",
-    "title": "Reddit",
-    "companyName": "Reddit Inc.",
-    "id": 12,
-    "description": "Dive into communities and discussions that matter to you.",
-    "size": 88,
-    "reviews": 340000,
-    "ratingAvg": 4.5,
-    "downloads": 48000000,
-    "ratings": [
-      { "name": "1 star", "count": 9000 },
-      { "name": "2 star", "count": 7000 },
-      { "name": "3 star", "count": 22000 },
-      { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 202000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Google_Photos_icon.svg",
-    "title": "Google Photos",
-    "companyName": "Google LLC",
-    "id": 13,
-    "description": "Backup, organize, and share your photos securely.",
-    "size": 92,
-    "reviews": 560000,
-    "ratingAvg": 4.6,
-    "downloads": 89000000,
-    "ratings": [
-      { "name": "1 star", "count": 13000 },
-      { "name": "2 star", "count": 9000 },
-      { "name": "3 star", "count": 29000 },
-      { "name": "4 star", "count": 160000 },
-      { "name": "5 star", "count": 350000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Zoom_Communications_Logo.svg",
-    "title": "Zoom",
-    "companyName": "Zoom Video Communications",
-    "id": 14,
-    "description": "Video conferencing and meetings made simple.",
-    "size": 78,
-    "reviews": 460000,
+    "description": "Create and watch short videos that entertain and inspire. Discover global trends and creators.",
+    "size": 110,
+    "reviews": 95000000,
     "ratingAvg": 4.4,
-    "downloads": 76000000,
+    "downloads": 5000000000,
     "ratings": [
-      { "name": "1 star", "count": 14000 },
-      { "name": "2 star", "count": 8000 },
-      { "name": "3 star", "count": 28000 },
-      { "name": "4 star", "count": 130000 },
-      { "name": "5 star", "count": 280000 }
+      { "name": "1 star", "count": 1600000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2200000 },
+      { "name": "4 star", "count": 6100000 },
+      { "name": "5 star", "count": 11000000 }
     ]
   },
   {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pinterest_Logo.jpg",
-    "title": "Pinterest",
-    "companyName": "Pinterest, Inc.",
-    "id": 15,
-    "description": "Discover inspiration for projects, fashion, and more.",
-    "size": 84,
-    "reviews": 410000,
-    "ratingAvg": 4.5,
-    "downloads": 64000000,
+    "id": 9,
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/26/d7/1b26d773-d3a9-1d2d-da5e-eac6b136ab4c/AppleWatch_Splash.png/300x0w.jpg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Share moments instantly and communicate through fun filters, chats, and disappearing messages.",
+    "size": 65,
+    "reviews": 89000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
     "ratings": [
-      { "name": "1 star", "count": 12000 },
-      { "name": "2 star", "count": 7000 },
-      { "name": "3 star", "count": 25000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 246000 }
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1900000 },
+      { "name": "4 star", "count": 4100000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "data:image/png;base64,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",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Navigate the world faster with accurate maps, live traffic updates, and local business information.",
+    "size": 120,
+    "reviews": 160000000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://cdn-icons-png.flaticon.com/512/732/732228.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Stream thousands of movies and TV shows online or download them to watch offline anytime.",
+    "size": 150,
+    "reviews": 95000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1900000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "description": "Network professionally, showcase your experience, and find career opportunities worldwide.",
+    "size": 70,
+    "reviews": 38000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 4800000 }
     ]
   }
+  ,
+  {
+    "id": 13,
+    "image": "data:image/png;base64,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",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Store, share, and access your files securely in the cloud from any device.",
+    "size": 100,
+    "reviews": 75000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "5 star", "count": 8700000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAolBMVEX///8oqOkkod4op+glo+EnpuYjoNwpqeskot8louAmpeQjn9smpOMpquwnp+cjoN0kod0pqeoAn+MAmNj4/P4Ao+rr9vzX7PkAnN4Loubf8Pq/3/O73/bx+f3K5vfn8/tdtues1e5Ot/Cp2PeQzfSb0vVvwfE/ruiDxu5Vs+dpuedYs+WPyeuY0vZ6xPNfvPFBreV5v+hzveZIq99ftOGHxOd2NBaTAAANPUlEQVR4nN1diXqqOhCmF61iUSyIJi64i7WeFuvp+7/aDZuibMkMi57fr3ZQSOZnJplJCChJpWMwt6brP5uv79XKtrsM9mr1/bX/s55a80H51ZeKobXer7otk6HVanW77l/X/8e2vY+7q/3aGtatKARD68+q5THr5sDba7WZzutWWQDD6dd7YDVeuBbtfq2fgeXA2tiu8wmwi1qz+zV56KY5mO5aJoTbDcvd9FFJWjsTSS9Csm4ycYw23ULohSRb+3HdlG4wtQukF5JcreumFWK2xTa+NI7m5hEi5fyL0hLo+aDmrm5nHe9KMd8VLfN79C/zq5njsAp+Acc6fHWwqYifz3FfeRaw7JbXvySB0mpjx7j4+JcL873C5lilg17RMr8q4md1zRr4uaCtSvLVfS0G9NEyd6X3OKP3anuYGMeuVS7BbY0GDCiamxL5zVZ1tcAoqF1aPm6JzLyUiBadlEMw00Mr5V6Sp37780stj05MaLXCDZzAtx8bHhfep85s6rF4914JQisg+Y4T/I1uK09ovRfcGMfd1qPBLDSJs2jdfBJgFpjgLM262STC3BZFcP2YBBnFP/84wVZBUWP7uAQZxf0/TrAIig/soj6wjvqgvWgUuB51yk3wvUwS2TARc1Qj00vJ3oPMLFPg3Y9D8NNAbuEdHvrH1NW8WkBqBCdwA1B1daBFYWm4/SwEGUUbMpj6vvooj+BvtPCCUK2hQFfiBLdm3om7Qd32psJh0TLFejXB/i9NgB8p2qHO6gtvUFCx5UYruW6FhSG/ixD884hj+jxQgSR8ZLZe2IvhhVd48f8Hn8IFTBEm/zTqu/xSF1qYg+UZJ8EvWpS+FUP+5iM4MevWFAxzycXwpT4fRYPyZG/7Z/VRF3SXT3D0vD7qwsy/gGo/sY8yyC95BJfP7KMuaM60zUB+bhMyI9LsoLh5dhMyI2auuhlSZsJe8BISvFcBwgu6iF7mrM2Oyr0XWe71erKgILsb7P2lhxZeejhBzhjvj035X0BGxDjQupUrBvY/bkJZpmlG/P5HTJhqxLFet2KFIcWIX3XrVSASB4rDR/RRqE40aen79sEYUkpXu/3OhqmVlNhQFjL96A0RLhsyWmCFMXof2yA1me+ouD49PT4UXlIvL5GDN2HB1asQgdHTv5fRi0l7Gn7d4xYShhi2R71+UGqv70cHANXk3j3BES1eWXEw8+0T8uYvgHKxgLGvn6Es6x/Jl1eWAOXk+xkbuW4nZZ3LJu3upgmE4d20G6SMAsG8M8V8HiyIdvR27nSHNSHmeBbXN5mXxsQ7CaZO8yNaxMDrj8OeFiLI8CN1J+/i5oRC1NGHN0UUF7CFhCalSZ3nHbxYLVzFzd1uO1BmhIdur3mm4WEJZdRNB7TZbMrNAFUJlJ44V/qcZFAVkVU2Fm1WDtrc8l7tkxbAKq7te1M1w+zgEIMNqyUS9IElQMF6F7E7l3VoTWEBQ3AJALDehe8y5hVg/fSwnU+rc1KqH8TXEY6gDC9DqF2hJLJqlI+QRYRgC8hhvOgVSiMVug1c6bqF+5gfbYdVOCnVd+D7lPZgBYOGOCmfIe3xB784PuD1+okbi4Ydd7PjvaBCxy+zkyCA3TNAL7P0ZMHfoKfgFHXKA8o9fcwoWMGmP1sDLyC/BjZwR98JOdbhCniTinNEAZlg5ssd+fFgQuE6eF2NhSggQif2Abd7Dja9Xtaea4CCoTreVAYi2mSA3z2XKm3SRcYOexWuhuou//5BFJAG/txz7rgpWeZiLXiwYHCzmsIHFlRfcD+74qi751ftZEVLlDJuZ9ophlcIqu65e8+x7beQzEXoA9TIRx240aY4qHqHa+IlasBmR8/skcYohvqQBYtiyDU99xR4YMUoMGAzm6A0xTEcSVZYwMVbQUJHpbrQyH3vG5BZMKfRbilAoeCdxawJG3x5mWUnSDCBgso5Lxhi1KHBkTkWlKSTClCoGW6w3BsST++h6o7Y81SYAcMjc7OCDxWjGj1KW1QBrpKqaG5tdcKzqua5KEMHpaC6ZxkDjp+uis5MXAzIY0FpiEub1YPr5hh+wrn11YBcBFlPiGP4IS3gDKn+Izz0O10MyNybp+9d4voJ1ZEcIENV18UnzkZXA7LmxXU7HbYVdSQbVIIqPq8rRVugWzXfzA3Cx3xAGLLekz+3viLSAlkZNufUFK4rBTFkvece8nT4qAFZ8+DMD2Y6zMciDJlF3E33jUtg7gm5M3xk65FyKC9BlnfzKpYmSCrjq7osuQTdgT228Ojyu5SlL7gPnOph5aqYcNmQIh9wADaz5BnwCv3Af+iWCumXANYOuaEvYI+BO+q3xZwEjj1gCYowpCKaXXFnQFUXeiqQg2fIX0TqGv9MbG/5qfpR6HA9WZdyGIqp5mPs3BMUSxTGaIYdNvziBeBpRfcGVHXBrmpCsAwdgabsiPIb2/f66aIPHo2dImF8sMyWF0TwwWFx7YhwMP3BElQX0pF/Z/IhMNU0d2IOlniLQDYEYtkNGhfpJK2ZIo1Gw33LF/RPXius9fvDOUdLNxi48Z5HsXThKE1JQwCq3vnlGPXOPvTYkQ7gOvc8VgyvnqFAtpIlxJAdq+jKKedHmaZEvT9MEe6nXEwElYuDTKWxeCGqQsgh/UeZBoeiCEpbNEPdkmagQli3o3+sE3uOra7EdicwgiyUYRkS1vgb0FKYJTunux+EG6wbJGzpHjyBfKQwyIMTL4tPuGySgZfbhh+JCwrRGz9ra+i57Hx6IC6/+/3IAkhQcvt5NSxLRAg5saSNeYLifuGHEJDAbEnUjmM3CFGCWNQIdvAEIjAcvAXrI9SgIkEh3FBc79miUz8PStoXcAsWkJV6eRi+mEwo0DZYyMkny8AVhL0gLjRCr70VGiri8fDXBpRSepbgbRAvPUHHnCyIJ9sR2PG4w4mwLyXe+XXA5eQDGOl9wEL1TfUNr6DfMhliHvILSLfuq//xChLLvcVAML9DhVeM+HMm8xIZKrD5OR9HtHORYBzUKNNNEV3pAq1XWPuhTIYII7axel1i8bLMeAFvifiulIT9XJkNkVUDmWd1McIzvExHoN0hux7g5Q60aynkUtZJabTdj9reCyS0/f/Bp7eC0gatZT+ShLI4hbb7riwuZU1IGwsl80vRqVYPi8wyOdQh1ysIA6Io/odKGyZEKCYJCrHFzdjILTZTUBQSWStyUEoH+RUkOCPYKqPjtgm6tHwQwdZoYXRquxVGL3MNKmDIqhSKG0usTuRmQVMFburW2Rcw4wlb2+3kQhVu6kLAjA62qrtkqiKGCnF4L0ChnfTuOsm+KooK4RsUj7EK3c9hYgts8+9JHJ7LbFOkQvEJIkfxA3j4T1gINzgEwrFc4agBkw9PUJR+rMQlPnPjB/nMXZqKydncGhK6tCoZtrVcM2Znurm472c8t6iUIjNj5jXhGU4bLelayZDgzpqwEplmtHAMSWJqcdAK0p0TSlZrxHmUlnyxZFStm7YzzeigHCrtWsJnxUb0zJjcGnFNRku7loAxIlQhjSSudMPFLpK6uGyhBdlJWwEIoINY8pHU7Tm+JkGmJCikmtA14n8MiuK+VSdo8THVhGAKTDeha8T/aoAWm6jqY/TQzukEpTkpTG0xpf67aY0/qBOdHAtD/NZiRFetyD2ae9R5TkxnrhjUxZC5an8/mc9mw4mDcySSk9Qva/JTBk0jHnAnOX+eBNXI64em5REMIsbTIitShDg9sxG1RT5B1tk8McWkgW8c0+f1U54JIBcHrf+cSBkWJvop2/2/8DghoTAAqtf4fNSFRQpXuAokD8SSsX9Gijnp2h0c0aZYf9PVNKEFEXOiucf0/bdnELTsIUUcE0OrBX3ogbyB4opjTRSBMACryz7rVloIWeP6NAzADlMHQI9HnWnaq/fSOITLhoYUXsMNAeGViN/Z6GFkBLpfSGQInnYFCeEGp/BqgJfLT4zXZ4ABeJBMiPUzUDSgyzs9bB+foiG6nOwOv49O0fjBEZSk02NTNMA3xj0JxSIIPrSj4l3Ux/FRKUKS0WRsjTe/SC0sOy4Uhow6boU3bC8axTKkmIq874vHGybQx2G5FN9CKglCztfcwlu4kSe8GaLPScnBvP9WCV4599PegMl2OgZno1RqATgZGmfEr0mk4rcSilworhO9xeRRKBbbx0Qx7z8CxxKaYASn+ikaB8RNmxyY1E6wNA8NMfus04zGGf2TJxxYGlptBDE3vwtgdqjHjEb+6vDCYL1Vz9EwivjRGn4cq6Zo/JbbhcYx/KmSo/EX8uhiLMaV9arGGfmjWGCMKsnGjTPmCTBYWKVzNM4FjwOFMfpbJsd67Rdi/GOUQ9IwAD/pWQ4GS6d4jkYf85uJxcP6W6ghDUP8hyVKx2B5LoikYXyCnmxfAYbLTzRJl95Deec9ZpNTH8zSMIy/04emF2C8/PsmzJIdcD4+XttLx3j582pw0nT3OyxHD9r0sjAbLX/PzGfTmHrfvJ5PS+sZPDMdg7k1Pf7+fJ6dyGxv//z583ucWvPyDfc/vX3JtefPsRUAAAAASUVORK5CYII=",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Fast and secure messaging app with cloud sync, large group support, and end-to-end encryption.",
+    "size": 80,
+    "reviews": 72000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 9500000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "data:image/png;base64,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",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "description": "Backup, organize, and share your photos and videos with unlimited cloud storage options.",
+    "size": 90,
+    "reviews": 68000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 3300000 },
+      { "name": "5 star", "count": 8700000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968756.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Chat, call, and hang out with your communities and friends using servers and channels.",
+    "size": 120,
+    "reviews": 94000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 3100000 },
+      { "name": "5 star", "count": 8900000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968830.png",
+    "title": "Google Chrome",
+    "companyName": "Google LLC",
+    "description": "Browse the web fast, safe, and securely with built-in Google Search and sync across devices.",
+    "size": 130,
+    "reviews": 200000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2800000 },
+      { "name": "4 star", "count": 6400000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "data:image/jpeg;base64,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",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Discover and save ideas for recipes, home décor, style, and more visual inspirations.",
+    "size": 95,
+    "reviews": 48000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2700000 },
+      { "name": "5 star", "count": 7400000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "data:image/jpeg;base64,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",
+    "title": "Skype",
+    "companyName": "Microsoft Corporation",
+    "description": "Video call, chat, and share files with friends and family across devices with Skype.",
+    "size": 85,
+    "reviews": 40000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "data:image/jpeg;base64,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",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "description": "Collaborate with chat, video meetings, and shared files for teams and organizations.",
+    "size": 150,
+    "reviews": 37000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "data:image/jpeg;base64,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",
+    "title": "Microsoft Word",
+    "companyName": "Microsoft Corporation",
+    "description": "Create, edit, and share documents easily across devices with powerful editing tools.",
+    "size": 180,
+    "reviews": 45000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 1100000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 7400000 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "data:image/png;base64,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",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe",
+    "description": "Edit photos on the go with professional filters, effects, and advanced tools.",
+    "size": 210,
+    "reviews": 30000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1900000 },
+      { "name": "5 star", "count": 6200000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
+    "title": "Google Translate",
+    "companyName": "Google LLC",
+    "description": "Instantly translate text, speech, and images in over 100 languages.",
+    "size": 60,
+    "reviews": 68000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 7200000 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0PEA8NDQ0QDw0PEBAVDw4OEA8VDQ8PFhIWFhUWFRUYHCggGRolGxUVITEiJSkrLjAuFyAzODUtNygtLisBCgoKDg0OGxAQGS0lHyMtLSswLSstLS0wLS0rKy0rLSstLS0rKy0wLy4tLi0rKy0wLS4tKy0tLS0rKy0rLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAAAQIHBAUGAwj/xABHEAABAwICBgcDBgwFBQAAAAABAAIDBBEFEgYhMUFRYQcTInGBkaEUMlIjQnKSstIVMzVDVGJjdIKTorEWJHOU0RdTs8Hw/8QAGwEBAQADAQEBAAAAAAAAAAAAAAECBAUGAwf/xAA6EQACAQMABQoFAgUFAQAAAAAAAQIDBBEFEiExURNBYXGBkaGx0fAUIjLB4UJSBhUjM1M0Q2KC8XL/2gAMAwEAAhEDEQA/ALxQAgBACAEAIAQGFiWLUtMM1TPHEDsD3DM76Ldp8F9qNvVrPFOLZhOrCCzJ4OUxDpLo2XFPDLOdzjaOM+Ju7+ldaloKtLbUko+L9PE0p6Rpr6U34e+40NV0lVzvxUMEQ/WD3u87gei3oaCoL6pN9y9fM1paRqPckvH0NXPprir9tWWjgyOJoHjlv6rajou1j+jvb9T4u8rP9XkYMmO1z/erak8uvlA8gbL7q0oR3U49yPm61R75PvZ4urp3e9NK76Ujz/crLkoLdFdyMdeXF95DrCdpJ7yrqomSbXkbDbuWLiXJ7x1ko92WQdz3D/2vm6UXvS7jJTkudmXFjFY33auoHLrpbeV18pW1F74LuRmqtRfqfezPg0rxFuyqceT2xu/u2615aPt3+jzPorqqv1eRtKbTysb77IZBv7Lmu8wbei1Z6Kovc2j7Rvqi3pG5otPYHWE8D4zxYQ9o79h9CtOpoqa+iSfh6mxC+i/qWDo8PxalqPxEzHn4b2eBzadY8loVbepS+uOPfE2oVYT+lmavifQEAIAQAgBACAEAIAQAgBACA1uN47SUTM9TKG3vkjGuWT6LRrPfsG9bNtaVbiWrTXbzLrZ8qtaFJZkytMe6Raue7KUeyxfELGocObtjfDXzXprXQlGntq/M/D89vccqtpCctkNi8TjpJXPcXvc573e895LnuPMnWV2FFRWEsI0G23liugJAqYAwVMAkCpgpIFQDBUwUmHLFoEw5YtFJhyxaKTDli0CYcsWi5PRr1g0U9GPsQQbEbCNoPJYOJcnSYRphVQ2bIevj4SH5QDk/b53XPr6OpVNsdj6PQ26V3OO/ajucHx2mqx8k+zwO1E/VIPDeOYuuLXtalF/MtnHmOjSrwqbjZrXPsCAEAIAQAgBACAEAIDh9MtPY6UupqPLLVC4e864oTvH6z+Wwb9ll3NHaHlWxUq7I8Od+i9riaFzeqn8sNr8iqqyrlne6WeR0krvee83J/wCByGoL1dOnCnFRgsJcyONKcpPMnlnldZGI7oB3UA7oBgqFGCpgEgVMFJAqYAwViCQKmCkw5YtFJhyxaBMOWLRSYcsWik2uWLRT0a9YNFPaKZzSHNcWuabtc0kOB4gjYsJRTWGVNrajudG9MQ7LDWkB2xs+oNPJ/Dv2d21cW70dj5qXd6HSoXmfln3+p2i5BvggBACAEAIAQAgK36QNNy0voaF9ni7Z6hp1tO9jD8XE7tg17PSaK0TrJVqy2cy+7+y5+rfy7y8x8kN/OysgvTnIGoULoBoB3UA7oB3UA7qAYKFJAqYAwVjgpIFQEgVCkg5TAJByxaKTDli0CYcsWikw5YtFPRrlg0XJ6NesWinXaI6UmEtpql14DqZIdsPAH9T+3ds5N9Y6/wA9NbeHH8+fWb1tdavyy3eX48ixAVwTqAgBACAEAIDh+kfSs0rPY6Z1qqVvbe064YjvB3PO7gNfBdzQ+juXlytRfKvF+i5+7iaF7dcmtSO9+BUQXsDhgoAQAoUaALoBoB3UA7oB3UA7qFGCgJArHAJAqYKMFQEgVMFJByxaBMOWLRSYcsWikw5YtAmHLFop6NcsWind6CaRe7Qzu/d3n/xk/wBvLguHpKz/AN2Hb6+vfxOlZ3H+3Ls9DulxToggBACA1ukWLx0VNLUya8gsxl9ckh1Nb4nyFzuWzZ20rmsqceff0LnZ8q1VUoOTKCrauSeSSeZ2aWRxc93EnhwA2AbgAv0CnTjTgoQWEth5uc3OTk97PFZmIIAUAIAQAoUaAd0AKAd0A7qAd0AwVCkgVMAkCpgowVMAkCoCQKxwUkHKNAmHLFopMOWLRSYcsWgejJCCCCQQQQQbEEbCDxWDjneZJlu6J40KynD3EdczszAfFucBwI1+Y3Lyl7bchUwtz2r30Hbtq3Kwzz85ulpmwCAEBUHSpjfX1IpGO+SpfetsdO4a/qiw7y5ew0HacnR5V75eX539xxNIVtaeoty8ziF3DnjQAgBACAFACAEAKFHdANAO6gHdAO6gHdAMFQowVMAkCpgpIFYgYKgJAqYKTDli0UmHLFoEw5YtFN/obi/stUwuNopbRy8ACey7wPoStDSFty1F43rajZtavJ1Fwewt5eTO4CAwsaxBtLTzVLtYijc63xOA7LfE2HivtbUXWqxprneDCpNQg5PmPniWVz3Oke7M97nOe47XOcbk+ZK/RIxUUorcth5htt5ZFZEBACAaAEAIAUAIAQAgGoULoBoB3UA7oB3UA7qAYKFJAqYBIFY4KMFQEgVMFJBymATDli0UkCscAufRDEvaqOGRxvI0ZJOOdmq57xZ38S8df0ORryit29dT94O/bVOUppveblaZ9zhOl2vyUkVODY1Et3DjHGMx/qMa7ugKOtXlUf6V4v8AGTn6Rnimo8X5FRr1xxQQg1QCAEAIBoAQAgBQAgBAChRoAugGgHdQDugHdQDuoUYKgJAqYBIFTBRgqAkCpgpIOWLQLB6Ka7tVNMTtDZWDmOw8+sa4GnKWyFTs+6+509HT2yh2/Z/YsReeOoVF0v1RdWQw/NigB/ie91/RjV63QFPFCU+L8l+WcbSUs1EuCOFXdOcCAFQCEGqAQAgGgBACAEAKAEAIAUKNAO6AagC6Ad1AO6Ad1CkgVMAkCpgowVMAkCoDpOj6q6vEIBukEjD3FhcP6mtXN0rT1rWXRh+PozbspYrLpyvfcXIvHHdKK6RJ8+J1Wu4aY2jlliZf1uvcaJjq2kO1+LOBevNZ++Y5xdI1AQDQAqAQDVICAEAIBoAQAgBACgBACAFCjugGgHdQDugHdQDugGCoUYKmASBUwU2GAz9XVUsl7ZaiG/0esAPpda11DWozj/xfkfSjLVqRfSvMvteDPSHzxpNKX1ta4m96qe3cJHAegC9/ZrVt6a/4ryPOV3mrLrZrVsnxGqAVIZVPh1TI3PFTTyMN7Pjikc0kbdYFl8pV6UHiUkn0tIzVOcllJ9x6/gat/Qqn/bzfdWPxVD/JHvXqXkan7X3B+Bq39Cqf9vN91X4qh/kj3r1HI1P2vuZ5z4bVRtL5aaeNg2vkhka0d5Isso16U3iM030NElSmllxfcYy+x8xxsc4hrGlznbGtBLieQG1RtJZe4qTbwjZjRzErZvYKm3+hJfytda3x1tnHKR70fX4erjOo+4100T2OLJGOY8bWPaWuHeDrWzGSksxeV0HyaaeGRVICA9aWmlldkhiklf8ADExz3W7mglYTqQgszaS6XgyjGUniKyZ0uj2IsGZ1DUhvHqZDbvsNS+Eb22k8KpHvR9Hb1Vvi+41nLht4grZPiCACgNnFo/iD252UNSW8RDJrHLVr8FqyvLeLw6kc9aPsreq1lRfcYE0T2OLJGOY8bWPaWvHeDrC2IyjJZi8roPm008NHrR0c8xLYIZJnC1xExzyO/KNSwqVYU1mckut4LGEp7IrJ71uEVkAzT0s0TfjfG8M+tay+dO5o1HiE030NeRlKlUhtlFow7r7nzHdQDuoBgoUkJC3tDa3WO8awsdXOxjONp9Be3x8V+f8AJSPT66PnbEpM087vimlPm8le+orFOK6F5HnKjzN9bPBfU+YXQDVB3XR5pnFRNdS1eYQOeXRytBd1TiO0HNGstNr6gTe/HVxNK6MlcNVaX1bmuP5OhZ3aprUnuO9/xzhH6az6kv3Vwv5Vef4/L1Oh8ZR/ce9Dpbhs8jYYKkSSvNmsayUk8fm6hzXzqaOuaUXOcMJdK9TKFzSm8Rllm5kDSCH2LSDmDrZcttd77lprOdm8+7KFocF9ur5aaisITNMWyayyOmEhs7mLFoHEkL3lS6+GtlUrb8LZxljcedjR5Ws4w3ZfcXHhGDUOGQksDI2tb8rUyloe7m952DlqC8fcXVe8qbcvgl9l7Z26dKnRjs2dJgu0/wAIDsvtR22zCGcsv35fXYvutDXmM6nivU+fxtDONbzNhXYfQYnAM4jnicD1c0ZBcw8WPGwg7vAha9KtcWdTZmL50/uvfQfWcKdeO3aimNKcAlw+cwPOaNwzQy21SMv6OGwj/kL2ljeRuqWutj51wfvccG4oOjPVe7mM/QfRV2ISF0hLKSIjrHD3nu2hjTxtrJ3C3ELX0npFWkMR2ye7o6X9j62lryzy9yLafJh+GQgExUsA1AbC423Da93mV5FRuLypszKXvsS8DtN06MeZI19Np5hEjgwVYaTsMkcrGeLnNAHjZbM9D3kVnU7mn4Jnyje0G8axPSfRSkxBhdZrKjL8nUsAudWrNb32/wDwssbLSNa0ljfHni/twftlr20Ky6eJSmIUclPLJBM3LLE4teN1+I4gixB4Fe2pVY1YKcHlM4E4OEnGW9Fq9HmiMUEUdbUMDqqUB0YcNUDCLtsDseRrJ2i9uN/KaX0lKrN0abxFbH0v04d/V2LK1UIqct78Db12m2FwyGGSqGdps7IyR7WneC5rSL/2WpS0Vd1Ia8YbOlpebPvO7oweq5GRiuEUOJwtMgbKwi8U8RGdo/Ufw4jYvlQua9nUersfOn90ZVKVOvHbt6T1llocNgGYx01OzU0AbXcgNb3GxO8nWsYxuLyrszKT99SXgZN06MOCPLCNJsPrXGKnna99jeN7Xtc5u+zXgZh3LO4sLi3WtUjhcd/kY07ilV2RZwPSPonHTWraVgZA92WWJo7MTz7rmjc07Lbja23V39D6RlW/o1XmS3PiunpObfWqh88Fs5zhLrunOHdQDugB2w9yIPcWJ+Gea878KdjlSsHuuSeJJ8yu+tiwcp7WJZEGgHdUg0BkYfRTVEjIIGGSWQ2a0epJ3AbSdywq1YUoOc3hIyhCU5asd5d2h+i0OGxEktfUvb8tPuA25WX2MHrtO4Dxd/fzu58Ircvu+nyO9bW0aMennZw2n+mxqS6jo3WpRqllG2c8G/s/td23uaK0XyOKtVfNzLh+fLr3aF5ea3yQ3ceJvuiCga2mmqSO3NLlB/ZxgW/qc/yC0dP1nKtGnzJZ7X+MH30dDFNy4vyOb6Usbkmq3UYcRBTZeyDqfKWhxceNg4NHCx4ro6EtY06HK/ql5cPuaukKzlPU5l5nFLtmgdV0dY3JS1kUWY9RUvbHIzdndqY4c81h3E8ly9L2sa1u5Y+aKyn0Leu43LKs4VFHmZ3XSvQtkoOvI7dPIxwO/K9wjcO7tNP8IXC0FWcLnU5pJ+G331nQ0hBSpa3D/wANroRQtp8PpWgWL4myvO/PIM5v3Xt4LU0nVdW6m+DwuzYfa1goUYroz3lN6SY1JXVElQ8nKSRCw7I4r9kAcbazzuvZ2drG2pKmt/P0vn/Bwris6s3J9hrFtHxLJ6JMbkLpMPkcXMawyQ3+YA4B7Ry7QIH0uK8zp+0ikq8d+cPp4Pw8jraOrN5pvrRDpXw1ntNFNb8feKS2/K9tvGz3DwCy0FXfI1Ift2rtT9CaQprXhLjsO60qnfFQ1ckZyvbBJlcNRacpAI5hcKxgp3MIy3No6FeTjSk1wPn8L9APNFq9D07zBUxE3YyVpaD83M3Xbl2b+JXlf4hglVhJb2vJnZ0bJuDXBmh6W6h7q2OMnsR07S1u4Oe92Y95yt+qFvaBglbuS3uXklg19JSbqJdByOG1D4poZYzZ7JWOaRxDh6bl160FOnKMtzTNGnJxmmuJeOmsTX4fWhwuBA9w+kwZmnzAXhtGycbum1xS79h6G6SdGWeBQ696ecGoB3QAoDN9uK+PIo+3Ks07hYkcCQsk8mLQlSDVINUGRh9FNUSsggYZJZDZrR6k8ANpO5YVasKUHObwkZQg5y1Y7y79DtFYcNiJJa+pe35afcBtysvsYPXadwHjL+/ndz4RW5fd9Pkd23t40Y9POzhukDTc1JdR0b7Uo1Syt21B4N/Z/a7tvb0XovkcVaq+bmXD8+XXu0Lu71vkhu48Tg13TnFv9ENY19HLDcZ4Z3XG/I8AtPmHjwXktPU3Gup8zXl7R2tHTzT1eDOO6TcMfBXyTEHqqmz43bswaGvbfiCL9zguxoa4jUtlHnjsf299Bo39Nxq63Mzk11jSOh0Cwt9TX0+UHJA9s0jtzQw5mg97gB58Fz9KXEaNtLO+Swu30RtWdJzqrgtpY/SpVNZhz4ye1PJExo33DxIfRh8153QdNyu1JfpTfhj7nTv5JUWuOPU2uiFU2fD6R4N/kGMd9NgyP9WlamkKbpXU10t9+1H2t5KdKL6Cj8Yw2SknlppQQ6JxAJ+ez5rhyIsV7m3rxr01Ujz+2uw8/VpunNxZhr7HzLC6IcMkM01aQREyMxMJ2Pkc5rnW7g0fWC89/EFxFU40Vvbz2L1+x1NG03rOfNuMzpUq2mow6nB7TX9Y4bwHPY1n2X+S+Og6bVKrU4rHcm39jO/l88I9OTrtNPyfW/6En9lx9G/6un1o3bn+zLqKEXvzzZaHQ3+LrP8AUi+y5eW/iL66fUzsaM+mXWaHpX/KA/d4vtPW/oL/AEv/AGf2NbSP93s9TkYPfZ9Nv2guvL6WaMfqRfWl/wCT6392m+wV4LR/+qp//S8z0lx/al1MoJe+PNhdANAO6gMn2V3BfPlEfTk2YOIMyzTN+GWQeTyF8qTzCL6F5GVRYk+tngvoYjVICAt7ofooBSyVDQDUPlcyR3zmMaGlrBwGsO535C3ltO1ZusoP6Usr1+x2NHwiqest51+N4UysiNPJJKyN3viFwaXt+Ekg9nlvXKt7h0J68Um1x5jcqU1OOq2cz/0wwz4qn+a37q6X89ueEe78mp/L6PT3kJui7DiCGS1LHbnZ2EA8wW6wso6euE9qi+x+pHo+lzZOMo56jAMQcyT5SMgCQM1Cancey9oOxwIO3eHC9jddipGnpO1zHY+bofDq/D6DSi5WlbD3eaLWIoMUphfJU0z9e+7XW+sx4vyIuvLZr2dXnjJe+prwOv8A060OKObd0W4fmuJ6oNv7meLyvkvb1XSWn7jGNWOe31NT+XUs72dJSUdBhdO7IGU8Ddb3uOtx4ucdbjuA8AudUq3F5VWcylzL3u95NqMadCGzYioNN9JTiM4c0FtNEC2Fh2m/vPdzNhq3ADmvX6NsVa0sP6nv9Ow4t3cctPZuW42PR3pa2ic6mqSRSyuuH7epk2XP6psL8LX4rW0to53EeUp/UvFevvgfWyulTepLc/AsvGsAocRY10zQ/s/JTxOs8NPwuGojkbhebtryvaSag8cU/T2zqVaFOsvm7zQU3RhhzXBz5aiVo/NuewNPeWtB8iFvz0/ctYSiunD+7aNeOjqSeXlm/wAVxSiwunGbLGxrSIYIwA55G5jfHWeetaFC3r3tXZtb3t83X76jZqVKdCG3YuBS1XiktZWipm9+SaPsj3WNDgGtHID/AJ3r2tO3jb2/Jw3JPt6TgyqupVUnxRb/AEg1scOH1Aee1Kzq4273Pdq1dwue4FeP0TSlUu4Y5tr7PeDtXk1GjLPPsKNXujzxY/Q7Wxh1VTkgSP6t7AdrmjMHW7rt815v+IaUmoVFuWU/sdXRk180e01XSv8AlAfu8X2nra0D/pf+z+x8dI/3ez1OOY6xDrXykG3Gxuuy1lYNFPDyXvpJUxzYZVTRODo5KSVzHDYWmMkLwdnTlTvIQktqkl4noq0lKhJrg/Iode8POAoUaACdRVIzvvwNyXn/AIo6/JHD6SR5K2tbwqqi3d1rrell0LWWaEH/AMV5GlXX9SXWzXLYPkNUAhDOwrF6qkcX0s74XOADspGVwGzM03Btc7RvXyrW9KssVI5PpTqzpvMXg2v+OcY/Tn/y4PuLW/ldp/j8X6n1+Mrfu8h/45xj9Of/AC4PuK/yu0/x+L9SfGVv3eQf45xj9Of/AC4PuK/yu0/xrvfqPjK37vI1eK4tU1bxLVSmWRrQ0OLWAhgJNuyBvJ81tUKFOhHVprC3nxqVJVHmTyRw7Eqimd1lNM+F+q5jcRmHBw2OHIq1aNOqtWpFNdJIVJQeYvBvh0gYxly+1C/xdTBm+zb0Wl/J7POdTxfqbHx1fG/wNLiWK1VU7PUzyTEbM7uy36LRqb4Bb1G3pUVinFI16lWdR/M8mGvsfMaA2OFY9W0mqlqZIm/ACHR345HAtvzstevaUK/9yCfn3rafWnXqU/pZtZdPsXcMvtQbxLYoQ4+OXV4LVjoezTzqeL9T7O+rvn8Dn6qqlmeZJpHySHa+Rxc4+J3Lo04Rpx1YJJcEaspSk8yeTzY8tIc02c0gg8CDcLJpNYZinh5MrEsTqap3WVMz5XDYXnU0bw0DUPBfKjb0qMdWnFJdBnUqzqPMnkxF9jA9IZnsc18b3Me03a9hLXtPEEawsZRjJasllPiVNp5R74liU9S8S1MplkDQ3M4NByi9hqA4lYUaFOjHVprC3mVSpKo8yeTFX1MDOpcZq4opKaOd7aeVrmvi1GMhws6wIOW99osV8KlrRnNVJRWstz5/fWfWNacYuKexmCvsfIEAIAIJ1DadQHNNxT6F/BTF+efESPT6iKR6RIerxSsbbUXscOeaJjj6kr1ejJa1rD3ubONdrFZnOrfNYFSDQDVAKkGgGqQFQNANUg0AKgapAQDQAqAQAqQaAEAIBoAQAgBACgM7A4esqqWO189RAD3GRt/RfC6lq0Zy4RfkfSis1IrpR9Dr87PTlMdMdMWV8ctuzLTs18Xse4H0LF6nQs80HHg/P2zk38f6ifQcJddg0BqgaEGqAVA0A1SAgGqQaoBAO6pBoAVA1SAgGgBUAgGqQEAIAQDQAgBAdJ0d0xkxKm1XEZke7kGxut/UWrmaXnqWc+nC8fQ27GOtWXRtLxXhj0BXPTTQZqemqgLmGVzHW3MkbtP8TGj+JdvQlXFSUOKz3f8Apo38MwUuBUV16Q5I1QNUgKgaEGqAVA0A1SDQAqQaoBAO6pBqgaEBUAgGgBUAhBqgEAIAQDQFh9D1DeWpqiNTGNjadxLzmd5BjfrLzv8AENbEIUuLz3bF5s6mjIbZT7C0l5U65q9J8LFZR1FLqzSRnJfYJR2mHwcGr72tbkasZ8H4c/gfOrDXg4nzeQQSCCCDYgixB3ghe3TycBrAKkHdAO6pBqgaoBUg0A1QCEGqBqgEINUDVIF0A1QNCAqBoAQAqAQg1QCALoC8uj7C/ZaCEOFpJryycbvtlB5hgYPBeF0tcctdSa3LYuz85PQ2dPk6SXHb3nSLmm0CAovpTwP2WudMxtoKu8jbbBLf5VvmQ7+PkvVaLuOVo6r3x2dnN6dhyLylqzzzM4666ZpjuqAuqQd1QO6pB3QDVICoGqBoAVINANUgKgaAd1SDQAqBqkBANACoBANUhu9DcFNbWRQkXiac8/DqmkXHibN8Vo6RuvhreU1v3LrfpvNi1o8rUS5t7L7XgT0YIAQGi000fbiNJJT6hM3twPOxszQbXPA3LTyK2rO5dvVU+bc+o+VelykHE+eJo3Mc6ORpa9jnNe13vNe02IPMEL2MZJrK3M4bTTwyKyMR3VA0A7qkC6oHdUg1QNCDVAKgaAapAQDVINUAgHdUg0AKgapAQDQAqC7ejzR00VNmlbapqLOlB2sb8xngCSebjwXidLXvxNbEX8sdi6eL98x37OhyUNu9nVLlG2CAEAICsOljRAvDsUpW9prf83G0e8wDVKOYGo8gDuN+5oq9x/Rn2enoaF5QytddpU675zAVA7qkHdUDuqBoQaoHdUgKgapBoAVA0INUDVAIQaoGqAuhBqgaEBUHfdGeipne3EKhvyETvkGkapZQfe+i0+ZHI34OmdIcnHkKb+Z7+hcOt+XWdKxttZ8pLdzFtLyZ2AQAgBACAEBTPSPoIaUvrqJl6Q3M0LRrpzvc0f8Ab+z3bPR6P0hymKdR/NzPj+fPr38y5tsfNDcV7ddg0RoQd1QO6pAuqB3VIO6oHdCDVA1QCpBoBqgFSDQDVICAaoHdUg0B1mg2h7694mmBZRMPadrDpiNrGHhxd4DXs5ektJRto6kNs34dL+y+2/dtbR1XrS+nzLqhiYxrY42hjGANa1oAa1oFgANwXjZScm5SeWztpJLCJrEoIAQAgBACARG4oCrNOejS5dVYWwbzJRjUOZh4fQ8twXdstKforPt9fXv4mhXtM/NDuKse0tJa4FrmkhzXAhzXDUQQdh5LuJ5WUc1rGwSyA1SDQg7qgd1QO6pAVA7qkHdANUgKgaoGgGqQEA1SBdUHf6GdHsk+WoxBroqfUWwG4mlH629jfU8tp4d/piNPMKDzLjzL1fh1nRt7Fy+apu4FtQwsja2ONrWMYAGsaAGtaNQAA2BeVlJyblJ5bOskksImoUEAIAQAgBACAEAIDm9KtC6HEQXStMVTazamKwk5B42PHfr4ELctr6rQ2LauD97D41aEKm/eVHpHoHiNDd3V+0U4/PwAmw/XZ7zfUc16C30hRrbM4fB+pzatrOHSjlgeC3jWJKkBUDuqQaoGgHdUg1QF1SDVA0INUAqB3QG90f0Tr64gwQlsR/Py3bDbkdrv4QVqXN/Qt/re3gtr/HafelbVKm5bOJaui2gdHQlsr/8AMVQ1iWQdhh/Zs2DvNzzC81eaVq3Hyr5Y8Fz9b9o6tC0hS272dYuWbQIAQAgBACAEAIAQAgBACAEBz+OaF4ZWkumpmtlO2aH5OUniS3U4/SBW3Rvq9HZGWzg9qPlOhTnvRxGKdEDtZo60Ebo6llj4yM+6unS0yv8Ach3ej9TUnY/tfec1W9HOMxHVTNmb8UMsZHk4h3ot2Gk7aX6sdaf5NeVnVXMaap0fxCK/WUNU228wS5frAWK2o3NGW6a70fJ0ai3xZrn3acrgWuG0O1HyK+6edqPk0wDhxVIMFUDuqQMw4qgkw3NhrJ2AayfBN28YNhT4JXSfi6Kpffe2CUjztZfKVzRjvmu9Gao1Hui+43FJoBjElv8AKGMH50skTQO8Xzei1p6UtY/rz1J/+H1jZ1nzHRYb0TTmxq6uNg3sga55I+k7LY+BWlV07Bf24N9ezyz5mxDRz/VLuOywbQPC6WzhB10g/OVJDzfiG2yg8wFyq+lLmrs1sLgtn58Tcp2tKG5d50wXPNgEAIAQAgBACAEAIAQAgBACAEAIAQAgBACAxMT/ABZX0p7zGW4rTSH5y7NuatQr/E9q7VLcc6qQw73gsqm4lLed9o9u8Fx7g6FMs3CPxa4db6jciZy+RkCAEAIAQAgBACAEAIAQAgP/2Q==",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "description": "Video conferencing, online meetings, and secure collaboration for work or study.",
+    "size": 130,
+    "reviews": 57000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 6500000 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
+    "title": "Google Meet",
+    "companyName": "Google LLC",
+    "description": "High-quality video calling app for professional and personal meetings.",
+    "size": 90,
+    "reviews": 40000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2400000 },
+      { "name": "5 star", "count": 6900000 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "data:image/jpeg;base64,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",
+    "title": "Microsoft Excel",
+    "companyName": "Microsoft Corporation",
+    "description": "Create and manage spreadsheets with formulas, charts, and real-time collaboration.",
+    "size": 170,
+    "reviews": 42000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 7100000 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v13/192px.svg",
+    "title": "Google Calendar",
+    "companyName": "Google LLC",
+    "description": "Plan, organize, and schedule events with reminders and smart integration.",
+    "size": 50,
+    "reviews": 30000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1900000 },
+      { "name": "5 star", "count": 5800000 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://img.freepik.com/premium-vector/reddit-logo_578229-207.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "description": "Join communities, discuss topics, and explore trending memes, news, and ideas.",
+    "size": 100,
+    "reviews": 64000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 2700000 },
+      { "name": "5 star", "count": 7400000 }
+    ]
+  }
+
+
 ]
