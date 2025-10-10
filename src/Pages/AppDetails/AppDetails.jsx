@@ -22,8 +22,8 @@ const AppDetails = () => {
   const { id } = useParams();
   const appId = parseInt(id);
   const [installed, setInstalled] = useState(false);
-  const data = useLoaderData() || [];
-  if (!data) {
+  const data = useLoaderData();
+  if (!data || data.length === 0) {
     return <AnimLoading></AnimLoading>
   }
   const singleData = data.find((app) => app.id === appId);

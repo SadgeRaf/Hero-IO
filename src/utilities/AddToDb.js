@@ -24,7 +24,8 @@ const addToStoredDB = (id) => {
 const removeFromDb = (id) => {
   const stored = getStoredApp();
   const updated = stored.filter(appId => parseInt(appId) !== parseInt(id));
-  localStorage.setItem('readList', JSON.stringify(updated));
+  const data = JSON.stringify(updated)
+  localStorage.setItem('readList',data);
 };
 
 export {addToStoredDB,getStoredApp,removeFromDb}

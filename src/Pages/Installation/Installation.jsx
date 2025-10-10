@@ -40,7 +40,7 @@ const Installation = () => {
   }
   
   return (
-    <div className='max-w-[1440px] mx-auto'>
+    <div className='max-w-[1440px] mx-auto mb-10'>
       <div className='text-center flex flex-col items-center mt-10 gap-2'>
         <h1 className='text-5xl font-bold text-black'>Your Installed Apps</h1>
         <p className='text-gray-600'>Explore All Trending Apps on the Market developed by us</p>
@@ -49,7 +49,7 @@ const Installation = () => {
         <h1 className='text-2xl text-black font-semibold'>{appList.length} Apps Found</h1>
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn m-1">Sort By Size</div>
-          <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
+          <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 md:w-52 p-2 shadow-sm">
             <li><a onClick={()=>handleSort("htol")}>High to Low</a></li>
             <li><a onClick={()=>handleSort("ltoh")}>Low to High</a></li>
           </ul>

@@ -8,6 +8,9 @@ const AllApps = () => {
   const data = useLoaderData();
   const [search, setSearch] = useState('');
 
+  if (!data || data.length === 0) {
+    return <AnimLoading></AnimLoading>
+  }
 
   const filtered = data.filter(d =>
     d.title.toLowerCase().includes(search.toLowerCase())
